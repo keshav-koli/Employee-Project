@@ -1,0 +1,35 @@
+{
+  "users": [
+    { "name": "ram", "age": 15 },
+    { "name": "ram", "age": 16 }
+  ],
+  "employees": [
+    {
+      "name": "Amit",
+      "department": "Sales",
+      "email": "amit@gmail.com"
+    },
+    {
+      "name": "Shivani",
+      "department": "Telecaller",
+      "email": "shivani@gmail.com"
+    },
+    {
+      "name": "Ram",
+      "department": "IT",
+      "email": "ram@gmail.com"
+    },
+    {
+      "name": "mihir",
+      "department": "house keeping",
+      "email": "mihir@gmail.com"
+    },
+    {
+      "name": "mohan",
+      "department": "security",
+      "email": "mohan@gmail.com"
+    }
+  ],
+  "trainers": [],
+  "student": []
+}
